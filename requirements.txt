@@ -1,0 +1,14 @@
+sentence-transformers
+requests
+bs4
+pandas
+langchain-text-splitters
+langchain-huggingface
+langchain-chroma
+langchain
+langchain-community
+langchain-google-genai
+flask
+tensorflow
+numpy
+streamlit
